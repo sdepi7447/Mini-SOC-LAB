@@ -114,9 +114,9 @@ To simulate real-world attack scenarios, we used **Atomic Red Team** to execute 
 
 ## Team
 
-**Youssef Mohammed Abdelnaeim**
-**Habiba Mahmoud**
-**Habiba Ahmed**
-**Mohamed gamal**
+* **Youssef Mohammed Abdelnaeim**
+* **Habiba Mahmoud**
+* **Habiba Ahmed**
+* **Mohamed gamal**
 
 ---
