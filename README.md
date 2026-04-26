@@ -39,6 +39,7 @@ The lab consists of three main machines:
 * Windows 10 (Endpoint)
 * Sysmon (Endpoint monitoring)
 * Ubuntu Server (Wazuh Manager)
+* Atomic red team (attacks simulation)
 
 ---
 
